@@ -7,3 +7,5 @@ Upon entering city information, the project instantly provides detailed informat
 The project was created with HTML and CSS as well as JavaScript using the API.
 
 You can access information about the project through the repo. You can also access the visual of the project below.
+
+![Animation](https://github.com/oranmehmetsirin/Weather/blob/main/gif.gif?raw=true)
